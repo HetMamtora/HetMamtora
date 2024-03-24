@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="center"> I'm currently learning MERN Stak and building personal projects.</h2>
+<h2 align="center"> I'm currently learning MERN Stack and building personal projects.</h2>
 
 ###
 
