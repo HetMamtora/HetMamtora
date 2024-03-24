@@ -76,6 +76,8 @@
 
 <br clear="both">
 
+![Snake animation](https://github.com/HetMamtora/HetMamtora/blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://raw.githubusercontent.com/HetMamtora/HetMamtora/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
