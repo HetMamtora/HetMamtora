@@ -69,8 +69,6 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/HetMamtora/count.svg?"  />
-
 ###
 
 <br clear="both">
