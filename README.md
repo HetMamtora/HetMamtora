@@ -1,8 +1,7 @@
-<h1 align="left">I'm Het Mamtora, I'm a Full-Stack Developer.</h2>
+<h1 align="center">I'm Het Mamtora, I'm a Full-Stack Developer.</h2>
 
 ###
 
-<h3 align="center">Welcome to my world of Coding =)</h3>
 
 ###
 
