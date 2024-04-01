@@ -77,6 +77,6 @@
 
 <br clear="both">
 
-<!--![Snake animation](https://github.com/HetMamtora/HetMamtora/blob/output/snake.svg)-->
+![Snake animation](https://github.com/HetMamtora/HetMamtora/blob/output/snake.svg)
 
 ###
