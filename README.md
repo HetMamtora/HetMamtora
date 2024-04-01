@@ -1,4 +1,4 @@
-<h1 align="center">I'm Het Mamtora, a Full-Stack Developer.</h1>
+<h1 align="left">I'm Het Mamtora, a Full-Stack Developer.</h1>
 
 ###
 
@@ -6,14 +6,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HetMamtora&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HetMamtora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HetMamtora&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=HetMamtora&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HetMamtora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="center"> I'm currently learning MERN Stack and building personal projects.</h2>
+<h3 align="center">I'm currently learning MERN Stack and building personal projects.</h3>
 
 ###
 
@@ -73,10 +73,12 @@
 
 ###
 
+<img align="left" src="https://profile-counter.glitch.me/HetMamtora/count.svg?"  />
+
 ###
 
 <br clear="both">
 
-<!--![Snake animation](https://github.com/HetMamtora/HetMamtora/blob/output/snake.svg)-->
+<!--<img src="https://raw.githubusercontent.com/HetMamtora/HetMamtora/output/snake.svg" alt="Snake animation" />-->
 
 ###
