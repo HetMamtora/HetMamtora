@@ -1,4 +1,4 @@
-<h1 align="left">I'm Het Mamtora, a Full-Stack Developer.</h1>
+<h1 align="center">I'm Het Mamtora, a Full-Stack Developer.</h1>
 
 ###
 
@@ -73,7 +73,7 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/HetMamtora/count.svg?"  />
+<!--<img align="left" src="https://profile-counter.glitch.me/HetMamtora/count.svg?"  />-->
 
 ###
 
