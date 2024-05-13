@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="center">I'm currently learning MERN Stack and building personal projects.</h3>
+<h3 align="center">Currently, upskilling to advance level with personal projects.</h3>
 
 ###
 
