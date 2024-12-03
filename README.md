@@ -81,6 +81,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HetMamtora/HetMamtora/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/HetMamtora/HetMamtora/output/snake.svg" alt="Snake animation" />-->
 
 ###
