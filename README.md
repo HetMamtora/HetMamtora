@@ -52,7 +52,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
 ###
@@ -81,6 +80,6 @@
 
 <br clear="both">
 
-<!--<img src="https://raw.githubusercontent.com/HetMamtora/HetMamtora/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/HetMamtora/HetMamtora/output/snake.svg" alt="Snake animation" />
 
 ###
