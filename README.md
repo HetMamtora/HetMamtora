@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="center">Currently, upskilling to advance level with personal projects.</h3>
+<h3 align="center">Currently working as Software Engineer Apprentice at Fidelity Investments</h3>
 
 ###
 
@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HetMamtora/HetMamtora/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/HetMamtora/HetMamtora/output/snake.svg" alt="Snake animation" />-->
 
 ###
