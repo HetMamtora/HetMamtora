@@ -1,4 +1,4 @@
-<h1 align="center">I'm Het Mamtora, a Full-Stack Developer.</h1>
+<h1 align="center">Hello, I'm Het Mamtora</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="center">Currently working as Software Engineer Apprentice at Fidelity Investments</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 ###
 
