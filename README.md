@@ -7,7 +7,7 @@
 - 📫 How to reach me **mamtorahet@yahoo.com**
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://github.com/HetMamtora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HetMamtora" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/het-mamtora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="het-mamtora" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/PotatoGPT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PotatoGPT" height="30" width="40" /></a>&nbsp;&nbsp;
